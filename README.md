@@ -14,4 +14,4 @@ Before that: dev team lead (2020–2023).
 
 **🔨 Now:** learning K3s
 **🧰 Stack:** Python · FastAPI · PHP / Laravel · Claude Agent SDK · Claude Code · RAG · PostgreSQL · Redis · Azure · Docker
-**📫 Find me:** [LinkedIn](https://www.linkedin.com/in/DEIN-PROFIL) · [Website](https://DEINE-DOMAIN)
+**📫 Find me:** [LinkedIn](https://www.linkedin.com/in/tom-braul-2938151b9) · [Website](https://DEINE-DOMAIN)
