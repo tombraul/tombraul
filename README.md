@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Tom 👋
 
-<!--
-**tombraul/tombraul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI that does real work – in production, not just in demos.
 
-Here are some ideas to get you started:
+Coding since 2016, based in Mainz, Germany. Since 2024 I've been shipping LLM automation
+for real business processes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- a coding agent that builds online surveys inside an in-house PHP framework
+- AI pipelines that help analyze market research studies
+- AI health checks for Linux and PostgreSQL systems
+- RAG prototypes over a study archive
+
+Before that: dev team lead (2020–2023).
+
+**🔨 Now:** learning K3s
+**🧰 Stack:** Python · FastAPI · PHP / Laravel · Claude Agent SDK · Claude Code · RAG · PostgreSQL · Redis · Azure · Docker
+**📫 Find me:** [LinkedIn](https://www.linkedin.com/in/DEIN-PROFIL) · [Website](https://DEINE-DOMAIN)
